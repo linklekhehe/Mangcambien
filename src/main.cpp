@@ -19,5 +19,5 @@ void loop() {
     Serial.print("Light Intensity: ");
     Serial.print(lux);
     Serial.println(" lx");
-    delay(1000); // Đọc mỗi giây
+    delay(1000); 
 }
